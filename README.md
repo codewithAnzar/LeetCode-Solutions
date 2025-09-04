@@ -29,7 +29,7 @@ This repo contains all the coding problems I’ve solved on **[LeetCode](https:/
 ---
 
 ## 🎯 Goals  
-- Solve at least **X problems per week**  
+- Solve at least **10 problems per week**  
 - Complete **patterns** (Two Pointers, Sliding Window, DP, Greedy, Graphs, etc.)  
 - Prepare for **coding interviews** and **contests**  
 
